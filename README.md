@@ -1,4 +1,4 @@
-# Database design for an online bookstore
+# Bookstore IMS
 This project designs a database that acts as an information management system for an online bookstore.
 
 ## Information to consider
@@ -30,5 +30,3 @@ The Book store has registered customers in order to sell books. It also contains
 * **Which	warehouse has Texas Glory in stock?**
 * **Which	author	has more books on sell?**
 * **Which	publisher offers less books?**
-
-***This project is done as a part of Coursera's [Relational Database Systems](https://www.coursera.org/learn/relational-database/) course.***
